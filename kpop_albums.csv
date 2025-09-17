@@ -1,5 +1,3 @@
-%%writefile kpop_albums.csv
-
 artist,album_title,release_date,sales
 
 (여자)아이들,I NEVER DIE,2022-03-14,285432
@@ -83,5 +81,6 @@ BTS,BE,2020-11-20,3875432
 투모로우바이투게더,minisode 2: Thursday's Child,2022-05-09,1854321
 
 투모로우바이투게더,The Name Chapter: TEMPTATION,2023-01-27,2765432
+
 
 투모로우바이투게더,minisode 3: TOMORROW,2024-04-01,1754321
